@@ -67,7 +67,8 @@ El sistema se ha diseñado utilizando **buenas prácticas**:
 
 Toda la documentación detallada está disponible en la Wiki del repositorio:
 
-👉 https://github.com/Jhon849/hotel-reservas/wiki
+👉  *https://github.com/Jhon849/hotel-reservas/wiki*
+
 ---
 
 # 🧩 Tecnologías Propuestas
@@ -89,6 +90,8 @@ Toda la documentación detallada está disponible en la Wiki del repositorio:
 Proyecto académico realizado por **Jhon Moncayo**, 
 
 ---
+
+
 
 
  
