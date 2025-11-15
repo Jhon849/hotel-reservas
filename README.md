@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Sistema%20de%20Reservas%20para%20Hotel-0052CC?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+  <img src="https://img.shields.io/badge/SISTEMA%20DE%20RESERVAS%20PARA%20HOTEL-0A389D?style=for-the-badge&logo=hotel&logoColor=white" />
 </p>
 
 <h1 align="center">🏨 Sistema de Reservas para Hotel</h1>
@@ -10,87 +10,110 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arquitectura-C4%20Model-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/UML-Modelado%20Profesional-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arquitectura-4353FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/C4%20Model-2E8BFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/UML-6A0DAD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Modelado%20Profesional-9B59B6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-brightgreen?style=flat-square" />
 </p>
 
 ---
 
-# 📘 Introducción
-Este proyecto implementa un **Sistema de Reservas para un Hotel**, diseñado con estándares profesionales de Ingeniería de Software.
+# 📘 Documentación Completa  
+
+👉 **Wiki oficial con TODO el diseño del sistema:**  
+🔗 https://github.com/Jhon849/hotel-reservas/wiki  
+
+---
+
+# 🏨 Descripción General
+
+El **Sistema de Reservas para Hotel** permite gestionar clientes, habitaciones, reservas, pagos en línea y operaciones internas del hotel de manera profesional.
 
 Incluye:
-
-- Documentación UML completa  
-- Diagramas de secuencia detallados  
-- Arquitectura mediante vistas C4  
-- Modelo de datos  
-- Procesos del sistema  
-- Diagramas de componentes y despliegue  
-
----
-
-# ✨ Características Principales del Sistema
-
-- Gestión de clientes  
-- Gestión de habitaciones  
-- Reservas online (crear / modificar / cancelar)  
-- Pagos en línea con pasarela externa  
-- Check-In y Check-Out  
-- Notificaciones automáticas  
-- Acceso administrativo y de recepción  
+- Diseño UML completo  
+- Modelo Entidad–Relación (ER)  
+- Vistas C4 (Contexto, Funcional, Lógica, Desarrollo, Despliegue)  
+- Diagramas de Secuencia  
+- Componentes  
+- Arquitectura detallada  
 
 ---
 
-# 🏗 Arquitectura del Proyecto
+# ⚡ Características del Sistema
 
-El sistema se ha diseñado utilizando **buenas prácticas**:
+### 👤 Gestión de Clientes  
+- Registro de clientes  
+- Consulta y edición  
+- Historial  
 
-## 🔹 Modelo C4 – Vistas Arquitectónicas
-- **Vista de Contexto**
-- **Vista Funcional**
-- **Vista Lógica**
-- **Vista de Desarrollo (Componentes)**
-- **Vista Física / Despliegue**
+### 🛏 Gestión de Habitaciones  
+- Registro y mantenimiento  
+- Estado: disponible / ocupada / mantenimiento  
 
-## 🔹 Modelado UML
-- Diagrama de Casos de Uso  
+### 📅 Gestión de Reservas  
+- Crear / Modificar / Cancelar  
+- Ver disponibilidad  
+- Comprobantes  
+
+### 💳 Pagos en Línea  
+- Integración con pasarela de pago  
+- Confirmación automática  
+
+### 🧾 Check-In / Check-Out  
+- Actualización de estados  
+- Registros claros  
+
+### 🔔 Notificaciones  
+- Alertas internas  
+- Confirmaciones por correo  
+
+---
+
+# 🧱 Arquitectura del Sistema
+
+Se incluye documentación profesional basada en el modelo **C4**:
+
+1. 🌍 Vista de Contexto  
+2. 🧩 Vista Funcional  
+3. 🧠 Vista Lógica  
+4. 🏗 Vista de Desarrollo  
+5. 🖥 Vista de Despliegue  
+
+---
+
+# 📊 Diagramas UML Incluidos
+
+- Casos de Uso  
 - Diagrama de Clases  
 - Diagramas de Secuencia  
-- Diagrama de Componentes  
-- Modelo ER (Base de Datos)  
+- Modelo ER  
+- Componentes  
+- Despliegue  
 
 ---
 
-# 📚 Documentación Completa del Proyecto
+# 🛠 Tecnologías Implementadas
 
-Toda la documentación detallada está disponible en la Wiki del repositorio:
-
-👉  *https://github.com/Jhon849/hotel-reservas/wiki*
-
----
-
-# 🧩 Tecnologías Propuestas
-
-- Frontend: HTML / CSS / JavaScript  
-- Backend: Node.js / Java / Python (dependiendo la implementación)  
-- Base de datos: MySQL / PostgreSQL / MongoDB  
-- Pasarela de pago: Stripe / PayPal  
-- SMTP para correos  
+| Área | Tecnologías |
+|------|-------------|
+| **Backend** | Java / Spring Boot |
+| **Frontend** | HTML / CSS / JS |
+| **Base de Datos** | MySQL / MongoDB |
+| **Diagramación** | PlantUML |
+| **Arquitectura** | C4 Model |
+| **Control de Versiones** | Git / GitHub |
 
 ---
 
-# 🚀 Estado del Proyecto
-🔧 Actualmente en desarrollo, ampliándose la documentación y modelos.
+# 👨‍💻 Autor  
+**Jhon Moncayo** — Proyecto académico profesional.
 
 ---
 
-# 👨‍💻 Autor
-Proyecto académico realizado por **Jhon Moncayo**, 
-
----
-
+<p align="center">
+  ⭐ <strong>Si este proyecto te ayudó, no olvides dejar una estrella.</strong> ⭐
+</p>
 
 
 
