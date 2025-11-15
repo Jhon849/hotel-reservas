@@ -22,7 +22,7 @@
 # 📘 Documentación Completa  
 
 👉 **Wiki oficial con TODO el diseño del sistema:**  
-🔗 https://github.com/Jhon849/hotel-reservas/wiki  
+🔗 
 
 ---
 
